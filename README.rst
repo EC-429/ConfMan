@@ -46,5 +46,4 @@ Running the program:
 Documentation
 -------------
 
-Documentation is available at:
-- `ConfMan youtube video <https://www.youtube.com/watch?v=3seJTAycQyM>`_
+Documentation is available at: `ConfMan youtube video <https://www.youtube.com/watch?v=3seJTAycQyM>`_
