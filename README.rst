@@ -1,10 +1,10 @@
 ConfMan: Configuration Management via Python3 & CLI
 ======================================================
 
-.. image:: https://img.shields.io/badge/ConfMan-Python3-brightgreen
+.. image:: https://img.shields.io/badge/ConfMan-Python3-blue
 
 .. image:: https://img.shields.io/badge/EC--429-Website-brightgreen
-    :target: https://errorcode429.com
+    :target: https://errorcode429.com/
 
 ConfMan is a python3 program designed to perform Secure Configuration Management functions.
 
