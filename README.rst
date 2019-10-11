@@ -33,7 +33,8 @@ To install ConfMan & python3 libraries, simply:
     $ import hashlib
     $ from colorama import Style, Back, Fore
 
-.. code-block:: python
+Running the program:
+.. code-block:: bash
 
     $ python3 ConfMan.py --help
     $ python3 ConfMan.py --baseline [/file/path] [baseline name] [appoved by]
@@ -46,4 +47,4 @@ Documentation
 -------------
 
 Documentation is available at:
-- `ConfMan youtube video <https://youtube.com>`_
+- `ConfMan youtube video <https://www.youtube.com/watch?v=3seJTAycQyM>`_
