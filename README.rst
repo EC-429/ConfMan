@@ -30,7 +30,7 @@ To install ConfMan & python3 libraries, simply:
     $ pip install argparse
     $ pip install json
     $ pip install time
-    $ import hashlib
+    $ pip install hashlib
     $ from colorama import Style, Back, Fore
 
 Running the program:
